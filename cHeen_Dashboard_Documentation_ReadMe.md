@@ -65,14 +65,13 @@ Run these from **cHeen Dashboard** menu in order:
 
 | Platform | Brand | Market | Status |
 |---|---|---|---|
-| Shopify | DB Cosmetics | AU | ✅ Connected |
-| Shopify | DB Cosmetics | NZ | ✅ Connected |
-| Meta Ads | DB Cosmetics | AU | ✅ Connected |
-| Meta Ads | DB Cosmetics | NZ | ✅ Connected |
-| Google Ads | DB Cosmetics | AU | ⏳ Pending API approval |
-| Google Ads | DB Cosmetics | NZ | ⏳ Pending API approval |
-| All platforms | INIKA, RAWW | All | ⏳ Pending credentials |
-
+| Shopify | Brand 1 | AU | ✅ Connected |
+| Shopify | Brand 1 | NZ | ✅ Connected |
+| Meta Ads | Brand 1 | AU | ✅ Connected |
+| Meta Ads | Brand 1 | NZ | ✅ Connected |
+| Google Ads | Brand 1 | AU | ✅ Connected |
+| Google Ads | Brand 1 | NZ | ✅ Connected |
+| All platforms | Brand 2, Brand 3 | All | ✅ Connected |
 ---
 
 ## Configuration
