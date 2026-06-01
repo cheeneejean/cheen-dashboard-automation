@@ -1,0 +1,21 @@
+Cheen Dashboard Automation
+Portfolio-Safe Technical Documentation
+
+Client: Cheen
+Brands: brand1 (AU, NZ) | brand2 (AU, NZ, US, UK) | brand3 (AU)
+Last Updated: June 2026
+
+Project Overview
+This public-safe version documents a Google Apps Script dashboard automation project that pulls data from Shopify, Meta Ads, and Google Ads into Google Sheets.
+
+Current Status
+- Shopify: Connected for brand1 AU and NZ
+- Meta Ads: Connected for brand1 AU and NZ
+- Google Ads: Connected for brand1 AU and NZ
+- All platforms: Connected
+- brand2 and brand3: Connected
+
+Privacy Notes
+- All live tokens, IDs, and sensitive client values were replaced with placeholders.
+- Brand names were anonymized for portfolio use.
+- This file is intended for GitHub portfolio presentation only.
